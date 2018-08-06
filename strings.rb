@@ -1,3 +1,3 @@
 puts "sarita"
 puts"sarita".upcase 
-puts"sarita".downcase
+puts"SARITA".downcase
