@@ -5,4 +5,4 @@ puts "Sarita".reverse
 puts "sarita".swapcase
 puts"sarita".capitalize
 puts"sarita".length
-puts "i love kode with klossy".length.upcase
+puts "i love kode with klossy".upcase.length
